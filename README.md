@@ -16,10 +16,15 @@ Dataset that of Coffee that consist of information about different types of coff
 
 
 **1.Alternating Columns**
+
 **2.Handling missin values**
+
 **3.Capitalizing the first letter of each coloumn with a string**
+
 **4.Standardizing date format**
-**5.IDENTIFYING UNIQUE VALUES AND COUNTS**
+
+**5.Identifying unique values**
+
 **6.Update inconsistent values**
 
 

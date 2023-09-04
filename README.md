@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio-Project
+# Data-Analyst-Portfolio-Project- Data-Cleaning
 Data Cleaning of a large dataset
 
 # Introduction & Goals
@@ -36,5 +36,3 @@ Dataset that of Coffee that consist of information about different types of coff
 ## Subqueries:
 
 
-## Conclusion:
-This script was written in Python to get an understanding of APIs with Python. By employing FastAPI it showcases how to build a beginner-friendly API project with essential CRUD operations for managing customer and invoice data. The inclusion of Postman testing allowed me to gain hands on exploration and validation of the API's functionalities. In conclusion, the project helped me to understand API development practically.

@@ -1,4 +1,4 @@
-# Data-Analyst-Project-Data-Cleaning
+# Data-Cleaning-using-MySQL
 Data Cleaning of a large dataset using MySQL
 
 # Introduction & Goals

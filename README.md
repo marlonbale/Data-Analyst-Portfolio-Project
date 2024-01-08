@@ -1,5 +1,5 @@
 # Data-Analyst-Project-Data-Cleaning
-Data Cleaning of a large dataset
+Data Cleaning of a large dataset using MySQL
 
 # Introduction & Goals
 In this project the goal was to to clean, preprocess, and manipulate messy dataset.
